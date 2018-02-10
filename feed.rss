@@ -2,7 +2,7 @@
 <channel>
 <title>DigitalRoyalty</title>
 <atom:link href="https://digitalroyalty.network/feed.rss" rel="self" type="application/rss+xml"/>
-<link/>
+<link>https://digitalroyalty.network/<link/>
 <description>
 DigitalRoyalty is a group of friends that got together to experiment with new technology, do research and development and create a digital portfolio to showcase amazing and innovative use cases of technology.
 </description>
