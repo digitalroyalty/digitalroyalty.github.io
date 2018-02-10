@@ -6,7 +6,7 @@
 <description>
 DigitalRoyalty is a group of friends that got together to experiment with new technology, do research and development and create a digital portfolio to showcase amazing and innovative use cases of technology.
 </description>
-<lastBuildDate>Sat, 10 Feb 2018 21:45:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Feb 2018 23:03:21 +0000</lastBuildDate>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <language>en-US</language>
@@ -29,16 +29,19 @@ DigitalRoyalty is a group of friends that got together to experiment with new te
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://digitalroyalty.network/img/logo_feed.png"/>
 <item>
-      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
-      <title>Amazon Developer Blog, week in review May 23rd</title>
-      <description>
-        Meet Echosim. A new online community tool for developers that simulates the
-        look and feel of an Amazon Echo.
-      </description>
-      <link>https://developer.amazon.com/public/community/blog</link>
-      <pubDate>2016-05-23T00:00:00.0Z</pubDate>
-      <enclosure url="https://developer.amazon.com/public/community/blog/myaudiofile.mp3"
-		length="12216320" type="audio/mpeg" />
-     </item>
+<link>https://digitalroyalty.network/2018/02/10/ep1</link>
+<title>Episode 1</title>
+<pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+<description>
+<![CDATA[ Episode generated automaticly. ]]>
+</description>
+<enclosure url="https://episodes.digitalroyalty.network/Akame ga Kill Opening 2.mp3" length="1459251" type="audio/mpeg"/>
+<guid>
+https://episodes.digitalroyalty.network/Akame ga Kill Opening 2.mp3
+</guid>
+<itunes:author>DigitalRoyalty</itunes:author>
+<itunes:summary>Episode generated automaticly.</itunes:summary>
+<itunes:image href="https://digitalroyalty.network"/>
+</item>
 </channel>
 </rss>
