@@ -29,6 +29,23 @@ DigitalRoyalty is a group of friends that got together to experiment with new te
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="/img/logo_feed.png"/>
 <item>
+<link>/2018/02/09/First-Test</link>
+<title>001. Learning To Podcast</title>
+<pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+<description>
+<![CDATA[
+Find out how many balloons it would take to float a turtle and whether or not the best part of space is the difficulty of hoarding animals there.
+]]>
+</description>
+<enclosure url="http://episodes.digitalroyalty.com/ep001.m4a" length="13345475" type="audio/mpeg"/>
+<guid>http://episodes.digitalroyalty.com/ep001.m4a</guid>
+<itunes:author>DigitalRoyalty</itunes:author>
+<itunes:summary>
+Recorded around a single microphone for their first attempt at an episode, we learn a little bit about The Ducks and experience the first installment of ‘Back of the Napkin’ where we find out how many balloons it would take to float a turtle. The Ducks invite you to enjoy the attempt, and promise to find a way to lower the volume of Matt G’s voice in future episodes.d
+</itunes:summary>
+<itunes:image href=""/>
+<itunes:duration>25:31</itunes:duration>
+<itunes:keywords>BackOfTheNapkin, BadTV</itunes:keywords>
 </item>
 </channel>
 </rss>
