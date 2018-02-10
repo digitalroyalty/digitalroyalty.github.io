@@ -1,6 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-	<channel>
-		<title>DigitalRoyalty</title>
-		<link>https://digitalroyalty.network/</link>
-	</channel>
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Amazon Developer Blog, week in review May 23rd</title>
+      <description>
+        Meet Echosim. A new online community tool for developers that simulates the
+        look and feel of an Amazon Echo.
+      </description>
+      <link>https://developer.amazon.com/public/community/blog</link>
+      <pubDate>2016-05-23T00:00:00.0Z</pubDate>
+      <enclosure url="https://developer.amazon.com/public/community/blog/myaudiofile.mp3"
+		length="12216320" type="audio/mpeg" />
+     </item>
+  </channel>
 </rss>
