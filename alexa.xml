@@ -1,7 +1,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 <channel>
 <title>DigitalRoyalty</title>
-<atom:link href="https://digitalroyalty.network/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://digitalroyalty.network/alexa.xml" rel="self" type="application/rss+xml"/>
 <link>https://digitalroyalty.network</link>
 <description>
 DigitalRoyalty is a group of friends that got together to experiment with new technology, do research and development and create a digital portfolio to showcase amazing and innovative use cases of technology.
@@ -13,7 +13,7 @@ DigitalRoyalty is a group of friends that got together to experiment with new te
 <copyright>Copyright © DigitalRoyalty</copyright>
 <managingEditor>team@digitalroyalty.network (DigitalRoyalty)</managingEditor>
 <webMaster>team@digitalroyalty.network (DigitalRoyalty)</webMaster>
-<itunes:new-feed-url>https://digitalroyalty.network/feed.xml</itunes:new-feed-url>
+<itunes:new-feed-url>https://digitalroyalty.network/alexa.xml</itunes:new-feed-url>
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:keywords/>
