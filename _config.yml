@@ -17,7 +17,7 @@ description         : >-
   DigitalRoyalty is a group of friends that got together to experiment with new technology, 
   do research and development and create a digital portfolio to showcase amazing and innovative use cases of technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://digitalroyalty.network" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO Related
 google_site_verification : 
