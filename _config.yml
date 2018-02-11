@@ -29,7 +29,7 @@ yandex_site_verification :
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-X-X"
+    tracking_id          : "UA-113894953-1"
 
 # Google AdSense
 google_ad_client         :
@@ -44,7 +44,7 @@ author2:
   location    : ""
   email       : "team@digitalroyalty.network"
   uri         : ""
-  facebook    : ""
+  facebook    : "DigitalRoyalty-321134658393589"
   github      : "digitalroyalty"
   twitter     : "_digitalroyalty"
   youtube     : ""
