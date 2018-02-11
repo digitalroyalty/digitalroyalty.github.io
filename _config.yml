@@ -1,0 +1,85 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site Settings
+locale              : "en-US"
+title               : "DigitalRoyalty"
+title_separator     : "|"
+author              : "DigitalRoyalty"
+description         : >-
+  DigitalRoyalty is a group of friends that got together to experiment with new technology, 
+  do research and development and create a digital portfolio to showcase amazing and innovative use cases of technology.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO Related
+google_site_verification : 
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-X-X"
+
+# Google AdSense
+google_ad_client         :
+google_ad_slot           :
+
+
+# Site Author
+author2:
+  name        : "DigitalRoyalty"
+  avatar      : ""
+  bio         : ""
+  location    : ""
+  email       : "team@digitalroyalty.network"
+  uri         : ""
+  facebook    : ""
+  github      : "digitalroyalty"
+  twitter     : "_digitalroyalty"
+  youtube     : ""
+
+
+
+permalink: /:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - node_modules
+  - build
+  - styles
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Gruntfile.js
+  - report.html
+  - .jscs.json
+  - .jshintrc
+  - .gitattributes
+  - .gitignore
+  - package.json
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
