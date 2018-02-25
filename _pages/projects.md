@@ -1,6 +1,6 @@
 ---
 layout: projects
-permalink: /projects
+permalink: /projects/
 ---
 
 <div id="wrapper">
